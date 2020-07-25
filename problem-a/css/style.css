@@ -11,16 +11,18 @@ img {
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 16px;
-    line-height: 1.5;
     max-width: 800px;
 }
 
+p {
+    line-height: 1.5;
+}
+
 h3 {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: brown; 
 }
 
 .highlight {
     background-color: cornsilk;
-    color: red;
+    color: blue
 }
