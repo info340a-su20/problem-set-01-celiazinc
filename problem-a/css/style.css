@@ -8,7 +8,7 @@ img {
     max-height: 400px;
 }
 
-p {
+body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
@@ -16,16 +16,10 @@ p {
 }
 
 h3 {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: brown; 
-}
-
-li {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size : 16px;
-    max-width: 800px;
 }
 
 .highlight {
     background-color: cornsilk;
+    color: blue
 }
